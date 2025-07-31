@@ -57,5 +57,5 @@ Berikut adalah daftar library Python yang digunakan dalam kursus ini:
 
 1. **Clone repositori**
 ```bash
-git clone https://github.com/username/data-science-python.git
+git clone https://github.com/zidanLPTP/Data-Science-Bootcamp.git
 cd data-science-python
